@@ -1,3 +1,7 @@
+// Arruma Meu Marido 3.0
+
+// Um script de organizacao de projetos pro after effects.
+
 {
     function createFolderStructureAndOrganizeAssets() {
         var project = app.project;
