@@ -1,4 +1,3 @@
-// RenameAndSortLayers.jsx
 // This script renames and sorts selected layers in the active composition based on their X or Y position.
 
 (function renameAndSortLayers() {
