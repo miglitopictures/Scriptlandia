@@ -1,3 +1,6 @@
+// MOVE BUDDY
+// Select and apply generally usefull expressions... (wiggle, ignore parent rotation, etc)
+
 (function(thisObj) {
     // Function to apply the selected expression to the selected properties
     function applyExpression(selectedExpression) {
